@@ -1,6 +1,10 @@
+anyascii==0.3.2
+emoji==2.14.1
+etnltk @ git+https://github.com/robeleq/etnltk.git@b32d650dda0204a94f60a08ff1afd4f5689323c4
 numpy==2.3.1
 pandas==2.3.0
 pyaes==1.6.1
+pyahocorasick==2.2.0
 pyasn1==0.6.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
@@ -8,4 +12,5 @@ PyYAML==6.0.2
 rsa==4.9.1
 six==1.17.0
 Telethon==1.40.0
+textsearch==0.0.24
 tzdata==2025.2
